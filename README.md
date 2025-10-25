@@ -1,0 +1,1 @@
+This report presents a consolidated view of FNP’s sales performance across product categories, occasions, cities, and time periods. The analysis leverages transactional data to uncover revenue drivers, customer behavior, and operational metrics, enabling targeted interventions for growth and efficiency
